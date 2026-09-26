@@ -1,0 +1,31 @@
+[DEMO SOURCE DOCUMENT — paraphrased, illustrative content for the BIS-Saathi
+SIH prototype. This is NOT a verbatim reproduction of any official Bureau of
+Indian Standards publication and must not be treated as authoritative.]
+
+Document: Protective Helmets for Two-Wheeler Riders (demo reference: IS 4151 : 2015)
+Page: 9
+Clause: 6.2 — Impact Absorption
+
+Summary of scope:
+This demo document illustrates the kind of protective performance and
+construction requirements a two-wheeler helmet standard typically sets.
+
+Illustrative parameters covered:
+- Shell strength: the outer shell must resist penetration and distribute
+  impact force across its surface rather than concentrating it at a point.
+- Impact absorption: the inner liner must limit the peak force transmitted
+  to a test headform when the helmet is dropped from a specified height
+  onto a rigid anvil.
+- Strap and retention system: the chin strap and buckle must hold under a
+  defined load without releasing, so the helmet stays on during a fall.
+- Field of vision: the helmet's opening must allow a minimum horizontal
+  and vertical field of view for safe riding.
+
+Illustrative clause 6.2 (Impact Absorption):
+A helmet passes this clause only if the peak acceleration recorded on the
+test headform, across all specified impact points, stays below the defined
+threshold; exceeding it at even one point fails the whole helmet design.
+
+Who this is relevant to:
+Helmet manufacturers seeking certification, two-wheeler riders choosing
+protective gear, and transport/road-safety authorities.

@@ -1,0 +1,33 @@
+[DEMO SOURCE DOCUMENT — paraphrased, illustrative content for the BIS-Saathi
+SIH prototype. This is NOT a verbatim reproduction of any official Bureau of
+Indian Standards publication and must not be treated as authoritative.]
+
+Document: LPG Cylinders — Specification (demo reference: IS 3196 : 1991)
+Page: 21
+Clause: 8.3 — Periodic Testing
+
+Summary of scope:
+This demo document illustrates the kind of material, construction and
+testing requirements a domestic LPG cylinder standard typically covers.
+
+Illustrative parameters covered:
+- Material and thickness: minimum steel sheet thickness and permitted
+  material grades, chosen to withstand internal pressure over the
+  cylinder's service life.
+- Valve and fitting requirements: standardised valve threads and fittings
+  so cylinders interface safely and consistently with regulators.
+- Hydrostatic pressure testing: every cylinder is pressure-tested during
+  manufacture to a multiple of its working pressure before it is approved
+  for filling.
+- Periodic re-testing: cylinders already in circulation must be withdrawn
+  and re-tested at a fixed interval (illustrated here as roughly every
+  5 years) before they can continue to be refilled.
+
+Illustrative clause 8.3 (Periodic Testing):
+A cylinder that has not undergone its due periodic re-test, or that fails
+the re-test, may not be refilled or returned to circulation until it is
+either successfully re-tested and re-stamped, or condemned and withdrawn.
+
+Who this is relevant to:
+Cylinder manufacturers, gas distribution agencies, households using LPG
+for cooking, and safety inspectors auditing cylinder fleets.

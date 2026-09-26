@@ -1,0 +1,33 @@
+[DEMO SOURCE DOCUMENT — paraphrased, illustrative content for the BIS-Saathi
+SIH prototype. This is NOT a verbatim reproduction of any official Bureau of
+Indian Standards publication and must not be treated as authoritative.]
+
+Document: Ordinary Portland Cement — Specification (demo reference: IS 269 : 2015)
+Page: 7
+Clause: 4.1 — Grades and Composition
+
+Summary of scope:
+This demo document illustrates how an ordinary Portland cement standard
+typically classifies cement by strength grade and sets composition limits.
+
+Illustrative parameters covered:
+- Grade classification: cement is commonly grouped into strength grades
+  (illustrated here as 33, 43 and 53), named after the minimum compressive
+  strength, in MPa, the cement must reach after 28 days of curing.
+- Composition limits: maximum permissible proportions of magnesium oxide,
+  sulphur trioxide, insoluble residue and loss on ignition, to keep the
+  cement chemically stable over time.
+- Fineness requirement: a minimum specific surface area so the cement
+  hydrates and gains strength at an expected rate.
+- Setting time: minimum initial setting time and maximum final setting
+  time, so the cement is workable long enough but sets reliably.
+
+Illustrative clause 4.1 (Grades and Composition):
+A batch of cement can only be labelled with a given grade if it meets both
+the compressive-strength requirement for that grade at the specified curing
+age and the composition limits above; failing either disqualifies the
+grade claim.
+
+Who this is relevant to:
+Cement manufacturers, builders and contractors, structural engineers
+specifying materials, and hardware retailers stocking certified cement.

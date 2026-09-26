@@ -1,0 +1,17 @@
+# Core service
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+
+# Ingestion
+pymupdf==1.24.10
+
+# Retrieval / embeddings / LLM — only required when AI_DEMO_MODE=false.
+# Left here so `pip install -r requirements.txt` sets up the *real*
+# pipeline described in the architecture doc; the service runs fine in
+# demo mode without these actually being usable (e.g. no GPU / no local
+# Ollama installed).
+chromadb==0.5.5
+sentence-transformers==3.1.1
+requests==2.32.3

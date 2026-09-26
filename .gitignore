@@ -1,0 +1,14 @@
+node_modules/
+.env
+!.env.example
+dist/
+build/
+.venv/
+__pycache__/
+*.pyc
+ai-service/data/chroma/
+blockchain/artifacts/
+blockchain/cache/
+blockchain/deployed/
+*.log
+.DS_Store

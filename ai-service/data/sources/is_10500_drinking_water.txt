@@ -1,0 +1,34 @@
+[DEMO SOURCE DOCUMENT — paraphrased, illustrative content for the BIS-Saathi
+SIH prototype. This is NOT a verbatim reproduction of any official Bureau of
+Indian Standards publication and must not be treated as authoritative.]
+
+Document: Drinking Water — Specification (demo reference: IS 10500 : 2012)
+Page: 14
+Clause: 5.2 — Permissible Limits
+
+Summary of scope:
+This demo document illustrates the kind of requirements a drinking water
+standard typically specifies so packaged and municipal water can be
+considered fit for human consumption.
+
+Illustrative parameters covered:
+- Physical parameters: turbidity, colour, odour and taste, within limits
+  that keep water visually and sensorially acceptable.
+- Chemical parameters: acceptable ranges for pH, total dissolved solids,
+  hardness, chloride, fluoride, and limits on selected heavy metals.
+- Biological parameters: absence of E. coli and other coliform organisms
+  in a defined sample volume, to rule out faecal contamination.
+- Testing cadence: periodic sampling and laboratory testing intervals for
+  bottlers and municipal suppliers to demonstrate ongoing compliance.
+
+Illustrative clause 5.2 (Permissible Limits):
+Where the acceptable limit for a parameter is not met, water may still be
+supplied only if it stays within a wider "permissible limit in the absence
+of an alternate source", and only for parameters where the standard allows
+this relaxation; several parameters (in particular biological ones) have
+no such relaxation and must always meet the acceptable limit.
+
+Who this is relevant to:
+Consumers, packaged drinking water bottlers, water purifier manufacturers,
+and municipal water supply departments preparing for BIS certification or
+routine compliance checks.

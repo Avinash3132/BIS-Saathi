@@ -1,0 +1,33 @@
+[DEMO SOURCE DOCUMENT — paraphrased, illustrative content for the BIS-Saathi
+SIH prototype. This is NOT a verbatim reproduction of any official Bureau of
+Indian Standards publication and must not be treated as authoritative.]
+
+Document: Footwear — General Requirements and Test Methods (demo reference: IS 15298 (Part 2) : 2016)
+Page: 3
+Clause: 3.4 — Sole Bonding Strength
+
+Summary of scope:
+This demo document illustrates the kind of quality and durability tests a
+general footwear standard typically applies to soles and upper materials.
+
+Illustrative parameters covered:
+- Sole bonding strength: the force needed to peel the sole away from the
+  upper must exceed a defined minimum, so the sole doesn't detach with
+  normal wear.
+- Upper material durability: flex-cracking resistance so the upper doesn't
+  crack after a specified number of repeated bending cycles.
+- Abrasion resistance: material loss after a standard abrasion test must
+  stay below a defined limit, indicating the sole will wear gradually
+  rather than failing quickly.
+- Slip resistance (where applicable): minimum coefficient of friction on
+  specified test surfaces for footwear marketed for wet or oily
+  environments.
+
+Illustrative clause 3.4 (Sole Bonding Strength):
+A sample fails this clause if the average peel force across test
+specimens falls below the minimum threshold, even if individual specimens
+pass — the standard evaluates the batch average, not just the best result.
+
+Who this is relevant to:
+Footwear manufacturers, quality inspectors performing batch testing, and
+retailers stocking BIS-compliant footwear.

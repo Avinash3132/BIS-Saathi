@@ -1,0 +1,107 @@
+[
+  {
+    "id": "water",
+    "isNumber": "IS 10500 : 2012",
+    "title": { "en": "Drinking Water — Specification", "hi": "पेयजल — विशिष्टि" },
+    "sourceFile": "is_10500_drinking_water.txt",
+    "page": 14,
+    "clause": "Cl. 5.2 — Permissible Limits",
+    "keywords": ["water", "drinking water", "packaged water", "tap water", "pani", "पानी", "जल", "पेयजल"],
+    "answer": {
+      "en": "For drinking water intended for human consumption, the applicable Indian Standard in the demo knowledge base is IS 10500 : 2012. It sets acceptable and permissible limits for physical, chemical and biological parameters such as turbidity, pH, total dissolved solids and microbial contamination.",
+      "hi": "पीने योग्य पानी के लिए, डेमो नॉलेज बेस में लागू भारतीय मानक IS 10500 : 2012 है। यह टर्बिडिटी, pH, कुल घुलित ठोस पदार्थ और सूक्ष्मजीवीय संदूषण जैसे भौतिक, रासायनिक और जैविक मापदंडों की स्वीकार्य सीमाएँ तय करता है।"
+    },
+    "simple": {
+      "en": "Think of it as a safety checklist for drinking water — it says how clean, clear and germ-free water needs to be before it's considered safe to drink.",
+      "hi": "इसे पीने के पानी के लिए एक सुरक्षा चेकलिस्ट समझें — यह बताता है कि पानी को सुरक्षित माने जाने से पहले कितना साफ, स्वच्छ और कीटाणु-मुक्त होना चाहिए।"
+    },
+    "relevantTo": {
+      "en": "Consumers, water purifier manufacturers, packaged water bottlers, municipal suppliers.",
+      "hi": "उपभोक्ता, वॉटर प्यूरीफायर निर्माता, पैकेज्ड वाटर बॉटलर, नगरपालिका जलापूर्ति विभाग।"
+    }
+  },
+  {
+    "id": "cement",
+    "isNumber": "IS 269 : 2015",
+    "title": { "en": "Ordinary Portland Cement — Specification", "hi": "ऑर्डिनरी पोर्टलैंड सीमेंट — विशिष्टि" },
+    "sourceFile": "is_269_cement.txt",
+    "page": 7,
+    "clause": "Cl. 4.1 — Grades and Composition",
+    "keywords": ["cement", "concrete", "construction material", "सीमेंट", "निर्माण"],
+    "answer": {
+      "en": "For ordinary Portland cement used in general construction, the demo knowledge base points to IS 269 : 2015. It defines grade classification (33, 43, 53), permissible composition, and minimum compressive strength requirements at 28 days.",
+      "hi": "सामान्य निर्माण में उपयोग होने वाले ऑर्डिनरी पोर्टलैंड सीमेंट के लिए, डेमो नॉलेज बेस IS 269 : 2015 दर्शाता है। यह ग्रेड वर्गीकरण (33, 43, 53), संरचना और 28 दिनों में न्यूनतम संपीड़न शक्ति आवश्यकताओं को परिभाषित करता है।"
+    },
+    "simple": {
+      "en": "This is the rulebook that decides how strong a bag of cement has to be before it can be sold for construction, sorted into three strength grades.",
+      "hi": "यह वह नियम पुस्तिका है जो तय करती है कि निर्माण के लिए बेचे जाने से पहले सीमेंट की एक बोरी कितनी मजबूत होनी चाहिए, जिसे तीन शक्ति श्रेणियों में बांटा गया है।"
+    },
+    "relevantTo": {
+      "en": "Builders, cement manufacturers, structural engineers, hardware retailers.",
+      "hi": "बिल्डर, सीमेंट निर्माता, संरचनात्मक इंजीनियर, हार्डवेयर विक्रेता।"
+    }
+  },
+  {
+    "id": "lpg",
+    "isNumber": "IS 3196 : 1991",
+    "title": { "en": "LPG Cylinders — Specification", "hi": "एलपीजी सिलेंडर — विशिष्टि" },
+    "sourceFile": "is_3196_lpg_cylinders.txt",
+    "page": 21,
+    "clause": "Cl. 8.3 — Periodic Testing",
+    "keywords": ["lpg", "cylinder", "gas cylinder", "cooking gas", "गैस सिलेंडर", "एलपीजी"],
+    "answer": {
+      "en": "For LPG cylinders used for domestic cooking gas, the demo knowledge base references IS 3196 : 1991. It covers material thickness, valve fittings, hydrostatic pressure testing and the periodic re-testing interval before a cylinder can stay in circulation.",
+      "hi": "घरेलू खाना पकाने की गैस के लिए उपयोग होने वाले एलपीजी सिलेंडर हेतु, डेमो नॉलेज बेस IS 3196 : 1991 का संदर्भ देता है। यह सामग्री की मोटाई, वाल्व फिटिंग, हाइड्रोस्टेटिक दबाव परीक्षण और सिलेंडर के पुनः परीक्षण अंतराल को कवर करता है।"
+    },
+    "simple": {
+      "en": "It's the safety spec that makes sure the gas cylinder in your kitchen won't leak or burst, and that it gets re-checked every so often.",
+      "hi": "यह वह सुरक्षा मानक है जो सुनिश्चित करता है कि आपकी रसोई का गैस सिलेंडर लीक या फट न जाए, और समय-समय पर इसकी दोबारा जांच हो।"
+    },
+    "relevantTo": {
+      "en": "Cylinder manufacturers, gas distribution agencies, households, safety inspectors.",
+      "hi": "सिलेंडर निर्माता, गैस वितरण एजेंसियां, घर, सुरक्षा निरीक्षक।"
+    }
+  },
+  {
+    "id": "helmet",
+    "isNumber": "IS 4151 : 2015",
+    "title": { "en": "Protective Helmets for Two-Wheeler Riders", "hi": "दोपहिया वाहन चालकों के लिए सुरक्षा हेलमेट" },
+    "sourceFile": "is_4151_helmets.txt",
+    "page": 9,
+    "clause": "Cl. 6.2 — Impact Absorption",
+    "keywords": ["helmet", "two wheeler", "motorcycle", "bike safety", "हेलमेट", "दोपहिया"],
+    "answer": {
+      "en": "For helmets worn by two-wheeler riders, the demo knowledge base references IS 4151 : 2015. It specifies shell strength, impact absorption performance, strap retention and minimum field of vision requirements.",
+      "hi": "दोपहिया वाहन चालकों द्वारा पहने जाने वाले हेलमेट के लिए, डेमो नॉलेज बेस IS 4151 : 2015 का संदर्भ देता है। यह शेल की मजबूती, प्रभाव अवशोषण क्षमता, स्ट्रैप की पकड़ और न्यूनतम दृष्टि क्षेत्र को निर्दिष्ट करता है।"
+    },
+    "simple": {
+      "en": "This spec decides how well a helmet needs to cushion your head in a fall, and how firmly the strap needs to stay buckled.",
+      "hi": "यह मानक तय करता है कि गिरने की स्थिति में हेलमेट को आपके सिर को कितनी अच्छी तरह से सुरक्षा देनी चाहिए, और स्ट्रैप को कितनी मजबूती से बंधा रहना चाहिए।"
+    },
+    "relevantTo": {
+      "en": "Helmet manufacturers, two-wheeler riders, transport authorities.",
+      "hi": "हेलमेट निर्माता, दोपहिया चालक, परिवहन प्राधिकरण।"
+    }
+  },
+  {
+    "id": "footwear",
+    "isNumber": "IS 15298 (Part 2) : 2016",
+    "title": { "en": "Footwear — General Requirements and Test Methods", "hi": "जूते — सामान्य आवश्यकताएं और परीक्षण विधियां" },
+    "sourceFile": "is_15298_footwear.txt",
+    "page": 3,
+    "clause": "Cl. 3.4 — Sole Bonding Strength",
+    "keywords": ["footwear", "shoes", "sole", "leather shoes", "जूते", "फुटवियर"],
+    "answer": {
+      "en": "For general footwear quality requirements, the demo knowledge base references IS 15298 (Part 2) : 2016. It covers sole bonding strength, upper material durability, and abrasion resistance test methods.",
+      "hi": "सामान्य फुटवियर गुणवत्ता आवश्यकताओं के लिए, डेमो नॉलेज बेस IS 15298 (Part 2) : 2016 का संदर्भ देता है। यह सोल बॉन्डिंग स्ट्रेंथ, ऊपरी सामग्री की स्थायित्व और घर्षण प्रतिरोध परीक्षण विधियों को कवर करता है।"
+    },
+    "simple": {
+      "en": "This is the quality check that makes sure the sole of a shoe won't peel off and the material holds up to regular wear.",
+      "hi": "यह वह गुणवत्ता जांच है जो सुनिश्चित करती है कि जूते का सोल अलग न हो और सामग्री नियमित उपयोग में टिकाऊ बनी रहे।"
+    },
+    "relevantTo": {
+      "en": "Footwear manufacturers, quality inspectors, retailers.",
+      "hi": "फुटवियर निर्माता, गुणवत्ता निरीक्षक, विक्रेता।"
+    }
+  }
+]
